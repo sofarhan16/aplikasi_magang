@@ -1,0 +1,469 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.head {
+    border: solid 1px;
+    width: 900px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+.head img {
+    margin: 10px 30px 10px 30px;
+}
+
+.head a {
+    position: absolute;
+    font-family: 'Poppins', sans-serif;
+    top: 140px;
+    text-decoration: none;
+    color: black;
+}
+
+.adress {
+    /* border: solid 1px; */
+    width: 900px;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+
+.from {
+    float: left;
+    width: 450px;
+    height: 150px;
+    border: solid 1px;
+    text-transform: uppercase;
+}
+
+.from p {
+    margin-left: 20px;
+    font-size: 23px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: Arial;
+}
+
+.to {
+    /* float: right; */
+    width: 450px;
+    height: 150px;
+    margin-left: 450px;
+    border: solid 1px;
+    text-transform: uppercase;
+}
+
+.to p {
+    margin-left: 20px;
+    font-size: 23px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-family: Arial;
+
+}
+
+.item {
+    width: 900px;
+    margin-left: 200px;
+    border: solid 1px;
+}
+
+.item p {
+    font-family: Arial;
+    margin-left: 10px;
+    font-size: 19px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+
+.subitem1 {
+    float: left;
+    margin-left: 10px;
+    width: 450px;
+}
+
+.subitem2 {
+    margin-left: 460px;
+}
+
+.subitem2 p {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.subitem1 p {
+    margin-top: 50px;
+}
+
+
+.code {
+    margin-left: 200px;
+    width: 900px;
+    border: solid 1px;
+
+}
+
+
+.barcode img {
+    width: 500px;
+    margin-top: -20px;
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: auto;
+}
+
+.barcode .uniquecode {
+    text-align: center;
+}
+
+.barcode p {
+    font-size: 23px;
+}
+
+.dotted {
+    border-top: dashed 3px;
+}
+
+.waybill {
+    text-transform: capitalize;
+    margin-left: 20px;
+    font-weight: bold;
+    float: left;
+}
+
+.barcode2 p {
+    margin-left: 590px;
+}
+
+.barcode2 img {
+    margin-left: 575px;
+    width: 300px;
+}
+
+.category {
+    width: 900px;
+    height: auto;
+    /* border: solid 1px; */
+    margin-left: 200px;
+}
+
+.fill1 {
+    width: 396px;
+    height: auto;
+
+    word-wrap: break-word;
+    border: solid 1px;
+    font-weight: bold;
+
+    float: left;
+    /* background-color: cadetblue; */
+}
+
+.fill1 p {
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+
+.fill2 {
+    border: solid 1px;
+    height: auto;
+
+    width: 200px;
+    word-wrap: break-word;
+    font-weight: bold;
+    float: left;
+    /* background-color: blue; */
+}
+
+.fill2 p {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.fill3 {
+    border: solid 1px;
+    word-wrap: break-word;
+    height: auto;
+    font-weight: bold;
+    width: 300px;
+    margin-left: 600px;
+    /* background-color: red; */
+}
+
+.fill3 p {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+.fill4 {
+    width: 396px;
+    height: auto;
+
+    word-wrap: break-word;
+    border: solid 1px;
+    font-weight: bold;
+
+    float: left;
+    /* background-color: cadetblue; */
+}
+
+.fill4 p {
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+
+.fill5 {
+    border: solid 1px;
+    height: auto;
+
+    width: 200px;
+    word-wrap: break-word;
+    font-weight: bold;
+    float: left;
+    /* background-color: blue; */
+}
+
+.fill5 p {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.fill6 {
+    border: solid 1px;
+    word-wrap: break-word;
+    height: auto;
+
+    font-weight: bold;
+    width: 300px;
+    margin-left: 600px;
+    /* background-color: red; */
+}
+
+.fill6 p {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+.fill7 {
+    width: 396px;
+    height: auto;
+
+    word-wrap: break-word;
+    border: solid 1px;
+    font-weight: bold;
+
+    float: left;
+    /* background-color: cadetblue; */
+}
+
+.fill7 p {
+    margin-left: 20px;
+    text-transform: capitalize;
+}
+
+.fill8 {
+    border: solid 1px;
+    height: auto;
+    width: 200px;
+    word-wrap: break-word;
+    font-weight: bold;
+    float: left;
+    /* background-color: blue; */
+}
+
+.fill8 p {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.fill9 {
+    border: solid 1px;
+    word-wrap: break-word;
+    height: auto;
+    font-weight: bold;
+    width: 300px;
+    margin-left: 600px;
+    /* background-color: red; */
+}
+
+.fill9 p {
+    text-align: center;
+    text-transform: capitalize;
+}
+
+
+.consigname {
+    width: 900px;
+    height: auto;
+    border: solid 1px;
+    margin-left: 200px;
+}
+
+.cname {
+    float: left;
+    border: solid 1px;
+    width: 200px;
+}
+
+.cname p {
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
+
+.fillcname {
+    width: 700px;
+    border: solid 1px;
+    margin-left: 200px;
+}
+
+.fillcname p {
+    margin-left: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+/*  */
+.consigno {
+    width: 900px;
+    height: auto;
+    border: solid 1px;
+    margin-left: 200px;
+}
+
+.cno {
+    float: left;
+    border: solid 1px;
+    width: 200px;
+}
+
+.cno p {
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-left: 20px;
+}
+
+.fillcno {
+    width: 700px;
+    border: solid 1px;
+    margin-left: 200px;
+}
+
+.fillcno p {
+    margin-left: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.address {
+    width: 900px;
+    height: auto;
+    border: solid 1px;
+    margin-left: 200px;
+}
+
+.addre {
+    text-transform: capitalize;
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.address address {
+    margin-left: 20px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+
+.cp {
+    margin-left: 200px;
+    width: 900px;
+    height: auto;
+    border: solid 1px;
+    text-transform: capitalize;
+}
+
+.pos {
+    float: left;
+    margin-top: 0px;
+    border-right: solid 1px;
+    padding-right: 70px;
+    padding-left: 20px;
+    font-weight: bold;
+}
+
+.fillpos {
+    margin-left: 220px;
+    font-weight: bold;
+    /* border-right: solid 1px; */
+    /* border : solid; */
+    width: 200px;
+    height: auto;
+
+}
+
+.postcode {
+    float: left;
+}
+
+.country {
+    margin-left: 00px;
+}
+
+.coun {
+    border-left: solid 1px;
+    border-right: solid 1px;
+    padding-left: 20px;
+    float: left;
+    margin-top: -15px;
+    padding-right: 150px;
+    margin-right: 20px;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.fillcoun {
+    text-transform: capitalize;
+    font-weight: bold;
+    /* margin-left: 20px; */
+}
+
+.shipper {
+    width: 900px;
+    border: solid 1px;
+    margin-left: 200px;
+}
+
+.namesh {
+    float: left;
+    margin-top: 0px;
+    margin-left: 20px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+.fillnamesh {
+    margin-left: 190px;
+    text-transform: capitalize;
+    font-weight: bold;
+}
+
+
+
+.c_menu {
+
+    display: none;
+
+}
+
+@media (max-width: 575.98px) { 
+
+    .c_menu{
+        display: block;
+        border-bottom: 1px solid black;
+    }
+}

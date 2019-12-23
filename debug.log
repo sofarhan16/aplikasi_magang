@@ -1,0 +1,5 @@
+[0501/134405.911:ERROR:settings.cc(266)] Settings version is not 1
+[0501/174233.869:ERROR:settings.cc(266)] Settings version is not 1
+[0508/205932.630:ERROR:settings.cc(266)] Settings version is not 1
+[0714/095300.745:ERROR:settings.cc(266)] Settings version is not 1
+[1016/112014.950:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
